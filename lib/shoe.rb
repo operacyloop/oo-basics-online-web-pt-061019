@@ -6,7 +6,7 @@ class Shoe
      @brand = brand
      # BRANDS << brand unless BRANDS.include?(brand)
      # BRANDS == BRANDS.uniq!
-     shoe.brand = "Nike"
+     @brand = "Nike"
    end
 
   def initialize(color)
