@@ -18,9 +18,5 @@ class Shoe
   def initialize(color)
       @color = color
    end
-  
-  def condition
-    @condition = repaired
-  end
 
 end 
