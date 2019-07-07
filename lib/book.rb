@@ -1,4 +1,4 @@
 class Book
-  attr_accessor (:title = "And Then There Were None")
+  attr_accessor (:title)
 end 
 
