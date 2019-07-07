@@ -12,9 +12,9 @@ class Shoe
     @color = color
   end
   
-  def condition
+  #def condition
    # @condition = repaired
-  end
+  #end
   
   def cobble
     self.condition = "new"	   
