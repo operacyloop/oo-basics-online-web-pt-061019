@@ -33,12 +33,12 @@ class Book
   end
   
   def turn_page=(turn_page)
-    @turn_page = turn_page
+   # @turn_page = turn_page
   end
   
-  def turn_page
-    @turn_page
-  end
+ # def turn_page
+ #   @turn_page
+#  end
   
 end 
 
