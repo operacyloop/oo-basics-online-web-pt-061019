@@ -9,7 +9,7 @@ class Shoe
     @color = color
   end
   
-  def cobble
+  def cobble(condition)
     @condition = new
   end
   
