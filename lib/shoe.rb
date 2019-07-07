@@ -7,17 +7,16 @@ class Shoe
     puts "Your shoe is as good as new!"	    
   end
   
-  BRANDS  = []
-  
-  def initialize(brand)
-    @brands = brand
-    BRANDS << brand
-    BRANDS == BRANDS.uniq!
-  end
+  # BRANDS  = []
+  # def initialize(brand)
+ #   @brands = brand
+  #  BRANDS << brand
+  #  BRANDS == BRANDS.uniq!
+#  end
 
-  def initialize(color)
-    @color = color
-  end
+#  def initialize(color)
+#    @color = color
+#  end
   
   #def condition
    # @condition = repaired
