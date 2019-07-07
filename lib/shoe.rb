@@ -5,7 +5,7 @@ class Shoe
   brands = []
   
   def initialize(brand)
-    @brand = brand
+    @brands = brand
   end
 
   def initialize(color)
