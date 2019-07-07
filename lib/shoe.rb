@@ -9,8 +9,8 @@ class Shoe
     @color = color
   end
   
-  def cobble(condition)
-    @condition = new
+  def initialize(condition)
+    @condition = repaired
   end
   
 end 
