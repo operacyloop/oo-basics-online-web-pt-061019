@@ -10,7 +10,7 @@ class Shoe
   end
   
   def condition
-    @condition = repaired
+   # @condition = repaired
   end
   
 end 
