@@ -9,9 +9,9 @@ class Shoe
      # @brand = "Nike"
    end
 
-  def initialize(color)
-      @color = color
-   end
+  # def initialize(color)
+  #    @color = color
+  # end
    
     def cobble
     self.condition = "new"	   
