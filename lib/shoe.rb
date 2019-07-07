@@ -4,8 +4,8 @@ class Shoe
   
    def initialize(brand)
      @brands = brand
-     BRANDS << brand unless BRANDS.include?(brand)
-     BRANDS == BRANDS.uniq!
+     # BRANDS << brand unless BRANDS.include?(brand)
+     # BRANDS == BRANDS.uniq!
    end
 
   def initialize(color)
